@@ -37,10 +37,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=hmVivqYAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-2666-5540"
+  orcid            : #"https://orcid.org/0000-0002-2666-5540"#
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Yihan-Pan-3/research"
+  researchgate     : #"https://www.researchgate.net/profile/Yihan-Pan-3/research"#
   scopus           : # URL
 
   # Repositories and software development
